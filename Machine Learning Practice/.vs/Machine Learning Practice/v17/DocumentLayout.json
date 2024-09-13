@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KINGS\\Documents\\Repositories (IMPORTANT)\\Kaggle-Machine-Learning\\Machine Learning Practice\\",
+  "WorkspaceRootPath": "C:\\Users\\KINGS\\Documents\\repositories\\Kaggle-Machine-Learning\\Machine Learning Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5425CE98-95C2-46AB-9CEF-21D7A8F08AA0}|Machine Learning Practice.pyproj|C:\\Users\\KINGS\\Documents\\Repositories (IMPORTANT)\\Kaggle-Machine-Learning\\Machine Learning Practice\\Machine_Learning_Practice.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5425CE98-95C2-46AB-9CEF-21D7A8F08AA0}|Machine Learning Practice.pyproj|C:\\Users\\KINGS\\Documents\\repositories\\Kaggle-Machine-Learning\\Machine Learning Practice\\Machine_Learning_Practice.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5425CE98-95C2-46AB-9CEF-21D7A8F08AA0}|Machine Learning Practice.pyproj|solutionrelative:Machine_Learning_Practice.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Machine_Learning_Practice.py",
-              "DocumentMoniker": "C:\\Users\\KINGS\\Documents\\Repositories (IMPORTANT)\\Kaggle-Machine-Learning\\Machine Learning Practice\\Machine_Learning_Practice.py",
+              "DocumentMoniker": "C:\\Users\\KINGS\\Documents\\repositories\\Kaggle-Machine-Learning\\Machine Learning Practice\\Machine_Learning_Practice.py",
               "RelativeDocumentMoniker": "Machine_Learning_Practice.py",
-              "ToolTip": "C:\\Users\\KINGS\\Documents\\Repositories (IMPORTANT)\\Kaggle-Machine-Learning\\Machine Learning Practice\\Machine_Learning_Practice.py",
+              "ToolTip": "C:\\Users\\KINGS\\Documents\\repositories\\Kaggle-Machine-Learning\\Machine Learning Practice\\Machine_Learning_Practice.py",
               "RelativeToolTip": "Machine_Learning_Practice.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-09-11T21:39:06.387Z",
               "EditorCaption": ""
