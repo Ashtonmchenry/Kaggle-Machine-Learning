@@ -71,7 +71,19 @@ val_predictions = melbourne_model.predict(val_X)
 print('\nTrain test split :')
 print(mean_absolute_error(val_y, val_predictions))
 
+#################################################
 #overfitting vs underfitting (controlling tree depth)
+# OVERFITTING occurrs when the there's too many divisions (leaf_nodes) within a model's calculation process.
+# The prediction would be an output that's very close to the samples within the training data.
+# So when new data is provided the predictions will skew.
+# (capturing spurious patterns that won't recur in the future, leading to less accurate predictions)
+
+# UNDERFITTING occurrs when there is not enough divisions within a model's calculation process.
+# The prediction would be an output that's no where near correct because the model has not
+# undergone enough training.
+# NOTE: changing prediction features could prove beneficial
+# (failing to capture relevant patterns, again leading to less accurate predictions)
+
 def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
     model = DecisionTreeRegressor(max_leaf_nodes=max_leaf_nodes, random_state=0)
     model.fit(train_X, train_y)
